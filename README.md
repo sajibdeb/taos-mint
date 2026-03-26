@@ -2,6 +2,28 @@
 
 Auto-mint TAO-20 inscriptions on the [Bittensor](https://bittensor.com) blockchain — the same transactions triggered by [taoscriptions.com/mint](https://www.taoscriptions.com/mint).
 
+#
+Follow me on X: https://x.com/SajibDeb_bd
+
+
+##
+Requirments:
+###
+1. You need a Bittensor (TAO) wallet.
+
+How to Get Started: 
+Go to the official website: https://talisman.xyz/
+Click Download Wallet and add the extension to your browser (Chrome or Firefox recommended).
+Set a strong password for the extension.
+Choose:Create new wallet → It will give you a 12 or 24-word recovery phrase (backup this securely offline!).
+Or Import an existing wallet using your seed phrase.
+Or connect a hardware wallet.
+
+### 2. Fund your wallet
+1. Use CEX like Binance or others and deposit TAO directly to your wallet!
+2. Bridge: https://www.tao.app/bridge(Buy vTAO on Base network. CA: "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf". Bridge to TAO(EVM network first), then bridge from EVM to TAO (subnet Talisman wallet)
+
+
 ## How It Works
 
 Each "mint" submits a signed `system.remark` extrinsic containing a TAO-20 JSON payload:
