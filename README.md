@@ -43,8 +43,8 @@ Open `.env` and fill in your values:
 ```env
 MNEMONIC=your twelve or twenty four word mnemonic phrase here
 
-TICK=TSCR          # TAO-20 token tick to mint
-AMOUNT=1000        # Amount per mint transaction
+TICK=TAOS          # TAO-20 token tick to mint
+AMOUNT=420        # Amount per mint transaction
 TOTAL_TX=10        # Number of mint transactions
 DELAY_MS=1000      # Delay between txs in milliseconds
 RPC_URL=wss://entrypoint-finney.opentensor.ai:443
