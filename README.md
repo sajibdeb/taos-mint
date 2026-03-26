@@ -45,14 +45,17 @@ This permanently inscribes the data on the Bittensor L1 chain, exactly as the Ta
 ---
 
 ## Setup
+### 1. Get the App
+Download the Code file and extract on your PC or clone to your PC: ```git clone https://github.com/sajibdeb/taos-mint.git```
+Open the folder and in the folder > right click > open in terminal
 
-### 1. Install dependencies
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 2. Configure your `.env`
+### 3. Configure your `.env`
 
 Copy the example file:
 
@@ -72,7 +75,7 @@ DELAY_MS=1000      # Delay between txs in milliseconds
 RPC_URL=wss://entrypoint-finney.opentensor.ai:443
 ```
 
-### 3. Run the bot
+### 4. Run the bot
 
 ```bash
 npm start
