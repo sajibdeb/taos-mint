@@ -24,7 +24,7 @@ Or connect a hardware wallet.
 
 ### 2. Fund your wallet
 1. Use CEX like Binance or others and deposit TAO directly to your wallet!
-2. Bridge: https://www.tao.app/bridge(Buy vTAO on Base network. CA: "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf". Bridge to TAO(EVM network first), then bridge from EVM to TAO (subnet Talisman wallet)
+2. Bridge: https://www.tao.app/bridge (Buy vTAO on Base network. CA: "0xe9f6d9898f9269b519e1435e6ebaff766c7f46bf". Bridge to TAO(EVM network first), then bridge from EVM to TAO (subnet Talisman wallet)
 
 
 ## How It Works
