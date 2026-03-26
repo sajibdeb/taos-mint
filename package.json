@@ -1,0 +1,24 @@
+{
+  "name": "taoscriptions-minter-bot",
+  "version": "1.0.0",
+  "description": "Auto mint TAO-20 inscriptions on the Bittensor blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node mint.ts",
+    "mint": "ts-node mint.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^12.4.2",
+    "@polkadot/keyring": "^13.2.3",
+    "@polkadot/util": "^13.2.3",
+    "@polkadot/util-crypto": "^13.2.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2"
+  }
+}
