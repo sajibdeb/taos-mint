@@ -9,8 +9,8 @@ Follow me on X: https://x.com/SajibDeb_bd
 
 ******************************************
 
-## Requirments:
-### 1. You need a Bittensor (TAO) wallet.
+## You need:
+### 1. Bittensor (TAO) wallet.
 How to Get Started: 
 Go to the official website: https://talisman.xyz/
 Click Download Wallet and add the extension to your browser (Chrome or Firefox recommended).
