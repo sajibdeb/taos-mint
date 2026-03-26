@@ -3,8 +3,11 @@
 Auto-mint TAO-20 inscriptions on the [Bittensor](https://bittensor.com) blockchain — the same transactions triggered by [taoscriptions.com/mint](https://www.taoscriptions.com/mint).
 
 #
+******************************************
+
 Follow me on X: https://x.com/SajibDeb_bd
 
+******************************************
 
 ##
 Requirments:
